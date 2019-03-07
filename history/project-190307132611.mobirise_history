@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Tal-properties",
+    "name": "Site-12-20_2127",
     "currentPage": "index.html",
     "theme": {
       "name": "agencym4",
@@ -39,18 +39,10 @@
     "versionFirst": "4.8.4",
     "siteFonts": [],
     "uniqCompNum": 20,
-    "versionPublish": "4.9.5",
+    "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "publishType": "local",
-    "publishPath": "file:///Users/avivyeshua/code/avivyshweb/talmikev1",
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/2-2000x766-128x49.png",
-    "noImageResize": "",
-    "siteUrl": "undefined",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "gdpr": "",
-    "google-analytics": ""
+    "publishPath": "file:///Users/avivyeshua/code/avivyshweb/talmikev1"
   },
   "pages": {
     "index.html": {
