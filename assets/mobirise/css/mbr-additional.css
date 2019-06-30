@@ -907,6 +907,19 @@ body {
 .cid-rhZdUVAhVL .block-title {
   text-align: left;
 }
+.cid-ruR5oTC054 {
+  background: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.cid-ruR5oTC054 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-ruR5oTC054 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rcNHBkEmze {
   padding-top: 15px;
   padding-bottom: 60px;
